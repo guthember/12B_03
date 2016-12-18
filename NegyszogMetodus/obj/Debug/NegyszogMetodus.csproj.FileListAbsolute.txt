@@ -1,0 +1,6 @@
+c:\users\erik\documents\visual studio 2015\Projects\NegyszogMetodus\NegyszogMetodus\bin\Debug\NegyszogMetodus.exe.config
+c:\users\erik\documents\visual studio 2015\Projects\NegyszogMetodus\NegyszogMetodus\bin\Debug\NegyszogMetodus.exe
+c:\users\erik\documents\visual studio 2015\Projects\NegyszogMetodus\NegyszogMetodus\bin\Debug\NegyszogMetodus.pdb
+c:\users\erik\documents\visual studio 2015\Projects\NegyszogMetodus\NegyszogMetodus\obj\Debug\NegyszogMetodus.csprojResolveAssemblyReference.cache
+c:\users\erik\documents\visual studio 2015\Projects\NegyszogMetodus\NegyszogMetodus\obj\Debug\NegyszogMetodus.exe
+c:\users\erik\documents\visual studio 2015\Projects\NegyszogMetodus\NegyszogMetodus\obj\Debug\NegyszogMetodus.pdb
